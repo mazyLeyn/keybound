@@ -9,11 +9,11 @@ Klavye tuş kombinasyonları (keybinds), kısayollar ve yönlendirmeler için ta
 
 ---
 
-## 💡 Hakkında
+## Hakkında
 
 **Keybound**, klavye odaklı navigasyon ve tuş atamalarını tarayıcı üzerinden kolayca deneyimlemek, yönetmek veya test etmek amacıyla geliştirilmiş hafif (*lightweight*) bir web uygulamasıdır. Sıfır bağımlılık (Vanilla JS) mimarisiyle çalışır ve doğrudan tarayıcı hafızasını kullanır.
 
-## ✨ Özellikler
+## Özellikler
 
 - ⌨️ **Klavye & Tuş Atama Yönetimi:** Tuş kombinasyonlarını ve kısayol davranışlarını hızlıca test edin veya yapılandırın.
 - 🎯 **Minimalist & Hızlı Arayüz:** Dikkati dağıtmayan, performans odaklı koyu tema tasarımı.
@@ -21,20 +21,7 @@ Klavye tuş kombinasyonları (keybinds), kısayollar ve yönlendirmeler için ta
 - ⚡ **Sıfır Bağımlılık:** Ağır framework'ler veya harici kütüphaneler içermez, anında yüklenir.
 - 📱 **Tam Uyumlu (Responsive):** Farklı ekran boyutlarına uyum sağlayan arayüz.
 
-## 🔗 Canlı Demo
+## Canlı Demo
 
 Uygulamayı doğrudan tarayıcınız üzerinde denemek için:
 👉 **[mazyleyn.github.io/keybound](https://mazyleyn.github.io/keybound/)**
-
-## 🛠️ Yerel Çalıştırma
-
-Projeyi kendi bilgisayarınızda çalıştırmak için:
-
-```bash
-# Depoyu klonlayın
-git clone [https://github.com/mazyLeyn/keybound.git](https://github.com/mazyLeyn/keybound.git)
-
-# Proje dizinine gidin
-cd keybound
-
-# index.html dosyasını tarayıcınızda açın
