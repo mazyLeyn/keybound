@@ -31,7 +31,7 @@ from you also gets a copy of these terms or the URL for them above, as
 well as copies of any plain-text lines beginning with `Required Notice:`
 that the licensor provided with the software. For example:
 
-> Required Notice: Copyright Warden Browser (https://github.com/mazyLeyn/keybound)
+> Required Notice: Copyright Keybound (https://github.com/mazyLeyn/keybound)
 
 ## Changes and New Works License
 
