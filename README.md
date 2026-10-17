@@ -13,11 +13,11 @@ Klavye tuş kombinasyonları (keybinds), kısayollar ve yönlendirmeler için ta
 
 ## Özellikler
 
-- ⌨️ **Klavye & Tuş Atama Yönetimi:** Tuş kombinasyonlarını ve kısayol davranışlarını hızlıca test edin veya yapılandırın.
-- 🎯 **Minimalist & Hızlı Arayüz:** Dikkati dağıtmayan, performans odaklı koyu tema tasarımı.
-- 💾 **Yerel Depolama (LocalStorage):** Ayarlarınız ve yapılandırmalarınız tarayıcınızın yerel hafızasında saklanır.
-- ⚡ **Sıfır Bağımlılık:** Ağır framework'ler veya harici kütüphaneler içermez, anında yüklenir.
-- 📱 **Tam Uyumlu (Responsive):** Farklı ekran boyutlarına uyum sağlayan arayüz.
+-  **Klavye & Tuş Atama Yönetimi:** Tuş kombinasyonlarını ve kısayol davranışlarını hızlıca test edin veya yapılandırın.
+-  **Minimalist & Hızlı Arayüz:** Dikkati dağıtmayan, performans odaklı koyu tema tasarımı.
+-  **Yerel Depolama (LocalStorage):** Ayarlarınız ve yapılandırmalarınız tarayıcınızın yerel hafızasında saklanır.
+-  **Sıfır Bağımlılık:** Ağır framework'ler veya harici kütüphaneler içermez, anında yüklenir.
+-  **Tam Uyumlu (Responsive):** Farklı ekran boyutlarına uyum sağlayan arayüz.
 
 ## Canlı Demo
 
